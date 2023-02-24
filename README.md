@@ -22,5 +22,5 @@ cargo run --release -- <YOUR_ARGS_HERE>
 
 ```
 cargo build --release
-./target/release/hw1 <YOUR_ARGS_HERE>
+./target/release/hw2 <YOUR_ARGS_HERE>
 ```
